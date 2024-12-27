@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=11-WebMvc-Product-App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{ProductService.java[ProductService" modifiers="513" timestamp="1733645612372"/>
+    <typeInfo handle="=11-WebMvc-Product-App/C:\/Users\/Shekhar\/.m2\/repository\/org\/yaml\/snakeyaml\/2.3\/snakeyaml-2.3.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.yaml=/=/maven.artifactId=/snakeyaml=/=/maven.version=/2.3=/=/maven.scope=/compile=/&lt;org.yaml.snakeyaml.parser(Production.class[Production" modifiers="1536" timestamp="1733628925503"/>
+    <typeInfo handle="=12-WebMvc-Student-App/C:\/Users\/Shekhar\/Downloads\/sts-4.14.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1653275986231"/>
+    <typeInfo handle="=12-WebMvc-Student-App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.repo{StudentRepo.java[StudentRepo" modifiers="513" timestamp="1733758208435"/>
+    <typeInfo handle="=12-WebMvc-Student-App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{StudentService.java[StudentService" modifiers="513" timestamp="1733758284663"/>
+    <typeInfo handle="=13-WebMvc-Mini-App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{UserService.java[UserService" modifiers="513" timestamp="1733813610652"/>
+    <typeInfo handle="=15_SB_REST_CURD_APP/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.services{CoursesServices.java[CoursesServices" modifiers="513" timestamp="1734269792875"/>
+    <typeInfo handle="=16_IRCTC_REST_APP/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{TicketService.java[TicketService" modifiers="513" timestamp="1734334879350"/>
+</typeInfoHistroy>
