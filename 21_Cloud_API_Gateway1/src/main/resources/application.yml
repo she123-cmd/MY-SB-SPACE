@@ -1,0 +1,25 @@
+server:
+  port: 3333
+   
+   
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: welcome-api
+        uri: lb://WELCOME-API
+        predicates:
+        - Path=/message
+      - id: greet-api
+        uri: lb://GREET-API
+        predicates:
+        - Path=/Greet
+        
+      spring:
+  application:
+    name: Cloud-API-Gateway1
+    
+  eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761

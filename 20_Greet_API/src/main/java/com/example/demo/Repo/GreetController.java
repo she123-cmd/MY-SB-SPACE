@@ -16,6 +16,8 @@ public class GreetController {
 
 	@Autowired
 	private Environment env;
+	
+	
 	@GetMapping("/Greet")
 	public String getGreet()
 	{
